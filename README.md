@@ -48,3 +48,12 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake.svg">
 </picture>
+<details><summary><strong>▶ [点击展开] 赞赏支持 ~</strong></summary>
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/maboloshi/maboloshi/img/weixin.jpg" alt="微信赞赏" width="30%">  <img src="https://cdn.jsdelivr.net/gh/maboloshi/maboloshi/img/alipay.jpg" alt="支付宝赞赏" width="30%"> -->
+
+|                                        微信赞赏                                        |                                       支付宝赞赏                                       |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/56c55ac6-e43f-480a-b87c-49c3eb61021e" alt="WeChat QRcode" width=300> <br><small>☕喝点咖啡继续干☕</small> | <img src="https://github.com/user-attachments/assets/87747148-76f9-4cd7-8864-f48501bec597" alt="AliPay QRcode" width=300> <br><small>🌶️来包辣条吧~🍪</small> |
+  
+</details>
