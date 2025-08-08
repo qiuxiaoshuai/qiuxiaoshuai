@@ -1,46 +1,49 @@
-### Hello! I'm 小帅 👋
-
----
+### 你好！我是 小帅 👋
 
 <a href="https://github.com/qiuxiaoshuai/qiuxiaoshuai">
 <!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true&theme=radical">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
-    <img alt="hect0x7's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
+    <img alt="qiuxiaoshuai 的 GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
   </picture> -->
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25&theme=radical">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
-    <img alt="hect0x7's GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
+    <img alt="qiuxiaoshuai 的语言分布" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
   </picture>
 </a>
 
 
-About me:
+关于我：
 
-- 🔭 I like doing sth that interests me in the open-source community whenever I'm free
+- 🔭 我喜欢在开源社区做让我感兴趣的项目（业余时间）
+- ❤️ 我最喜欢写 **Python**，并致力于更好的系统设计与工程化实践
+- 📫 联系方式：在此仓库提交 issue → `https://github.com/qiuxiaoshuai/qiuxiaoshuai/issues`
 
-- ❤️ I love writing Python the most and pursuing excellent system design
+<!-- 小标签区：技术栈 / 风格 -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/爬虫-Scrapy-00C6A7?style=flat-square" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/自动化-Selenium-43B02A?style=flat-square" alt="Selenium" />
+  <img src="https://img.shields.io/badge/桌面GUI-PyQt6-41CD52?style=flat-square" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/系统设计-工程化-00E6FF?style=flat-square" alt="System Design" />
+  <img src="https://img.shields.io/badge/日语-203-FFDD00?style=flat-square" alt="Japanese 203" />
+</p>
 
-- 📫 How to reach me: [here](https://github.com/hect0x7/hect0x7/issues)
+
+About / 简介（简短）：
+
+- 🧭 目标：2026 考研（专业课 408，外语用日语 203），同时把项目打造成可复现、可演示的作品  
+- 🔍 风格：注重可复现、注释清晰与工程化（测试、文档、自动化）  
+- 📚 经常更新：仓库会定期推送学习笔记、项目与脚本工具
 
 
-
-<!--
-**hect0x7/hect0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <picture>
