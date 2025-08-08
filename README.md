@@ -1,12 +1,7 @@
 ### 你好！我是 小帅 👋
 
 <a href="https://github.com/qiuxiaoshuai/qiuxiaoshuai">
-<!--   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
-    <img alt="qiuxiaoshuai 的 GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
-  </picture> -->
-  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25&theme=radical">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
@@ -32,18 +27,11 @@
 </p>
 
 
-About / 简介（简短）：
+About / 简介：
 
 - 🧭 目标：2026 考研考取 211 院校（专业课 408，外语用日语 203），同时把项目打造成可复现、可演示的作品  
 - 🔍 风格：注重可复现、注释清晰与工程化（测试、文档、自动化）  
 - 📚 经常更新：仓库会定期推送学习笔记、项目与脚本工具
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qiuxiaoshuai/qiuxiaoshuai/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <picture>
@@ -52,8 +40,6 @@ About / 简介（简短）：
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake.svg">
 </picture>
 <details><summary><strong>▶ [点击展开] 赞赏支持 ~</strong></summary>
-
-<!-- <img src="https://cdn.jsdelivr.net/gh/maboloshi/maboloshi/img/weixin.jpg" alt="微信赞赏" width="30%">  <img src="https://cdn.jsdelivr.net/gh/maboloshi/maboloshi/img/alipay.jpg" alt="支付宝赞赏" width="30%"> -->
 
 |                                        微信赞赏                                        |                                       支付宝赞赏                                       |
 | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
