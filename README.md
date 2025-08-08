@@ -1,7 +1,34 @@
-## Hi there 👋
+### Hello! I'm 小帅 👋
+
+---
+
+<a href="https://github.com/qiuxiaoshuai/qiuxiaoshuai">
+<!--   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
+    <img alt="hect0x7's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=qiuxiaoshuai&show_icons=true">
+  </picture> -->
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
+    <img alt="hect0x7's GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxiaoshuai&layout=compact&line_height=25">
+  </picture>
+</a>
+
+
+About me:
+
+- 🔭 I like doing sth that interests me in the open-source community whenever I'm free
+
+- ❤️ I love writing Python the most and pursuing excellent system design
+
+- 📫 How to reach me: [here](https://github.com/hect0x7/hect0x7/issues)
+
+
 
 <!--
-**qiuxiaoshuai/qiuxiaoshuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hect0x7/hect0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +41,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hect0x7/hect0x7/output/github-contribution-grid-snake.svg">
+</picture>
