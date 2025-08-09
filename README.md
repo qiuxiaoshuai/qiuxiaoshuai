@@ -17,14 +17,18 @@
 - 📫 邮箱：1187961189@qq.com
 
 <!-- 小标签区：技术栈 / 风格 -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/爬虫-Scrapy-00C6A7?style=flat-square" alt="Scrapy" />
-  <img src="https://img.shields.io/badge/自动化-Selenium-43B02A?style=flat-square" alt="Selenium" />
-  <img src="https://img.shields.io/badge/桌面GUI-PyQt6-41CD52?style=flat-square" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/系统设计-工程化-00E6FF?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/日语-203-FFDD00?style=flat-square" alt="Japanese 203" />
+<p align="center">
+  <a href="https://t.me/XS_17756">
+    <img src="https://img.shields.io/badge/Telegram-联系我-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/爬虫-Scrapy-00C6A7?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/自动化-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/桌面GUI-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/系统设计-工程化-00E6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/日语-203-FFDD00?style=for-the-badge&logo=google-translate&logoColor=black" alt="Japanese 203" />
 </p>
+
 
 
 About / 简介：
