@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/爬虫-Scrapy-00C6A7?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
   <img src="https://img.shields.io/badge/自动化-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/桌面GUI-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/系统设计-工程化-00E6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/计算机-408-00E6FF?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/日语-203-FFDD00?style=for-the-badge&logo=google-translate&logoColor=black" alt="Japanese 203" />
 </p>
 
