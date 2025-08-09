@@ -14,7 +14,7 @@
 
 - 🔭 我喜欢在开源社区做让我感兴趣的项目（业余时间）
 - ❤️ 我最喜欢写 **Python**，并致力于更好的系统设计与工程化实践
-- 📫 联系方式：在此仓库提交 issue → `https://github.com/qiuxiaoshuai/qiuxiaoshuai/issues`
+- 📫 邮箱：1187961189@qq.com
 
 <!-- 小标签区：技术栈 / 风格 -->
 <p>
